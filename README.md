@@ -7,13 +7,11 @@ Preview: https://youtu.be/QOSkSs7fDAU
 ---
 
 ## 🚀 Features
-- 📌 **Interactable phone boxes** (via `qb-target`)
-- 🛠 **Requires a Maintenance Card** (`maintenance_card`)
+- 📌 **Interactable phone boxes**
 - 🎮 **Minigame for hacking** (via `glow_minigames`)
 - ⚡ **Failure causes electrocution & ragdoll**
-- 🎁 **Success grants 2-6 shiny coins** (`shiny_coin`)
-- 🚨 **50% chance of police alert**
-- ⏳ **Per-phone-box cooldown (5 minutes)**
+- 🚨 **Chance of police alert**
+- ⏳ **Phonebox cooldown (5 minutes)**
 
 ---
 
