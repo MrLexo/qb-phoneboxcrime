@@ -1,0 +1,2 @@
+maintenance_card              = { name = 'maintenance_card', label = 'Maintenance Card', weight = 100, type = 'item', image = 'maintenance_card.png', unique = false, useable = false, shouldClose = false, description = 'A special card used to access phone boxes.' },
+shiny_coin                    = { name = 'shiny_coin', label = 'Shiny Coin', weight = 50, type = 'item', image = 'shiny_coin.png', unique = false, useable = false, shouldClose = false, description = 'An old but valuable shiny coin.' },
